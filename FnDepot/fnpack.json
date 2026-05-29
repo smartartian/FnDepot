@@ -5,13 +5,12 @@
     "version": "1.0.0",
     "desc": "高性能对象存储服务器，兼容 Amazon S3 API。此为 2022-11-17 定制版，专为飞牛OS优化。默认访问密钥：minioadmin/minioadmin。",
     "labels": "工具,存储,效率",
-    "author": "ShawnLee",
-    "author_url": "https://github.com/smartartian",
-    "download_url": "",
-    "isdocker": "false",
+    "distributor": "ShawnLee",
+    "distributor_url": "https://github.com/smartartian",
     "bug_report_url": "https://github.com/smartartian/FnDepot/issues",
     "install_type": "系统空间",
+    "isdocker": "false",
     "size": "50",
-    "changelog": ""
+    "changelog": "初始版本，添加 MinIO 2022-11-17 定制版"
   }
 }
